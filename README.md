@@ -308,14 +308,6 @@ graph TB
 
 ---
 
-## 🤝 Contributing
-
-<div align="center">
-
-**We welcome contributions from the community!** 🌟
-
-</div>
-
 <details>
 <summary><b>🚀 How to Contribute</b></summary>
 
@@ -338,16 +330,6 @@ graph TB
 
 </details>
 
----
-
-## 📄 License
-
-<div align="center">
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
 </div>
 
 ---
@@ -359,7 +341,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 <img src="https://github.com/Ahlamghribi.png" width="100" height="100" style="border-radius: 50%;" alt="Ahlam Ghribi"/>
 
 ### **Ahlam Ghribi**
-*Flutter Developer & AI Enthusiast*
+*Cyber Security Student*
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahlamghribi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahlamghribi)
@@ -367,20 +349,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 </div>
 
 ---
-
-## 🌟 Support
-
-<div align="center">
-
-**Love this project?** Give it a ⭐ star to show your support!
-
-**Have questions?** Feel free to [open an issue](https://github.com/Ahlamghribi/Face-authentification-app/issues)
-
-**Want to collaborate?** [Let's connect!](mailto:ahlamghribi@example.com)
-
----
-
-### 💫 *"The future of authentication is here"* 💫
 
 **Made with ❤️ by [Ahlam Ghribi](https://github.com/Ahlamghribi)**
 
