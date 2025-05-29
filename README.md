@@ -46,7 +46,6 @@
 
 ### 🎨 **User Experience**
 - **📱 Material Design 3** - Modern, intuitive interface
-- **🌙 Dark/Light Theme** - Adaptive design system
 - **🎥 Camera Integration** - Seamless photo capture
 - **🖼️ Gallery Support** - Import existing photos
 - **🔄 Auto-sync** - Cloud-based profile management
