@@ -66,17 +66,17 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://via.placeholder.com/300x600/667eea/ffffff?text=🏠%0AHome%0AScreen" alt="Home Screen" width="200"/>
+<img src="https://github.com/user-attachments/assets/7ccce5b0-0030-4133-9d76-c2e10d98a050" alt="Home Screen" width="200"/>
 <br><b>🏠 Home Dashboard</b>
 <br><i>Clean, intuitive interface</i>
 </td>
 <td align="center" width="33%">
-<img src="https://via.placeholder.com/300x600/764ba2/ffffff?text=📸%0AFace%0ARegistration" alt="Face Registration" width="200"/>
+<img src="https://github.com/user-attachments/assets/9cc7be8a-5875-4a59-921b-045896ecf457" alt="Face Registration" width="200"/>
 <br><b>📸 Face Registration</b>
 <br><i>Smart capture & processing</i>
 </td>
 <td align="center" width="33%">
-<img src="https://via.placeholder.com/300x600/f093fb/ffffff?text=✅%0AAuthentication%0ASuccess" alt="Authentication" width="200"/>
+<img src="https://github.com/user-attachments/assets/15bbb1f8-7756-41eb-8364-3c4f9772e4b5" alt="Authentication" width="200"/>
 <br><b>✅ Authentication</b>
 <br><i>Instant verification results</i>
 </td>
