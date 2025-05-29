@@ -29,7 +29,10 @@ A Flutter mobile application that enables users to authenticate and verify their
 
 | Home Screen | Face Update | Recognition Result |
 |-------------|-------------|--------------------|
-| ![Home](screenshots/home.png) | ![Update Face](screenshots/update.png) | ![Result](screenshots/result.png) |
+| ![Home](![image](https://github.com/user-attachments/assets/5ad26c93-d00c-4526-82c8-87afde4e74a9)
+) | ![Update Face]![image](https://github.com/user-attachments/assets/46c62205-9d4f-4b49-8c00-611d7d877065)
+ | ![Result](![image](https://github.com/user-attachments/assets/a419dd2a-7aa2-4396-9536-a14a6246c56b)
+) |
 
 > 💡 *Replace these with actual screenshots from your app.*
 
