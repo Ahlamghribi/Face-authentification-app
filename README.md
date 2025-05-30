@@ -98,14 +98,3 @@ flowchart TD
 Follow Flutter/Dart style guide • Write meaningful commits • Be respectful
 
 ---
-
-## 👨‍💻 Author
-
-**Ahlam Ghribi** - *Cyber Security Student*
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahlamghribi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahlamghribi)
-
----
-
-**Made with ❤️ by [Ahlam Ghribi](https://github.com/Ahlamghribi)**
